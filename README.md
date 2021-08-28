@@ -2,8 +2,8 @@
 Python notebook for building model for telecom churn prediction and important predictor identification.
 
 Steps:- 
-	1. Data Loading
-	2. Outlier Detection
+1. Data Loading
+2. Outlier Detection
 	3. Finding High Value Customer
 	4. Missing Value Detection and Treatment
 	5. Exploratory Data Analysis
